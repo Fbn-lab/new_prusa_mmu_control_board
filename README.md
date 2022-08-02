@@ -9,7 +9,7 @@
 # image
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board1.JPG)
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board3.JPG)
-
+![image](https://github.com/fBn0523/new_prusa_mmu_control_board/blob/main/images/img1.jpg)
 # future
     use RP2040 microcontroller   
     a tft screen
