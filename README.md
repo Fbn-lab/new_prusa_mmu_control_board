@@ -5,7 +5,7 @@
 
 直插mks主板，兼容更多打印机。
 
-确保你的打印机主板拥有一个空闲的串口和两个gpio,使用marlin固件。voron 和i3 结构可以100%支持mmu换料器。
+无论你的打印机是否来自prusa生产，只要主板拥有一个空闲的串口和两个gpio,使用marlin固件。都可以使用mmu换料器。
 # image
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board1.JPG)
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board3.JPG)
