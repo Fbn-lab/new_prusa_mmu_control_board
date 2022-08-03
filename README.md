@@ -1,4 +1,4 @@
-(语言 language) : [CN](https://github.com/fBn0523/new_prusa_mmu_control_board/main/README.md)|[EN]()
+(语言 language) : [CN](https://github.com/fBn0523/new_prusa_mmu_control_board/blob/main/README.md)|[EN](https://github.com/fBn0523/new_prusa_mmu_control_board/blob/main/README_EN.md)
 
 # new_prusa_mmu_hardware
 
