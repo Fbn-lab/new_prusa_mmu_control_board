@@ -1,3 +1,5 @@
+(语言 language) : [CN](https://github.com/fBn0523/new_prusa_mmu_control_board/main/README.md)|[EN]()
+
 # new_prusa_mmu_hardware
 
 原mmu2升级版主板，加入串口电平转换，dcdc独立供电。可更换的电机驱动，比原版更低的价格，兼容12~24V电平，
