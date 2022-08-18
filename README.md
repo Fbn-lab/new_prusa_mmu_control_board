@@ -11,5 +11,7 @@
 # image
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board1.JPG)
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board3.JPG)
+![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/img3.jpg)
+
 
  
