@@ -4260,8 +4260,8 @@
     #define MMU2_CAN_LOAD_FEEDRATE 500    // (mm/min)
     #define MMU2_CAN_LOAD_SEQUENCE \
       {  0.1, MMU2_CAN_LOAD_FEEDRATE }, \
-      {  60.0, MMU2_CAN_LOAD_FEEDRATE }, \
-      { -52.0, MMU2_CAN_LOAD_FEEDRATE }
+      {  50, MMU2_CAN_LOAD_FEEDRATE }, \
+      { -42.0, MMU2_CAN_LOAD_FEEDRATE }
 
     #define MMU2_CAN_LOAD_RETRACT   6.0   // (mm) Keep under the distance between Load Sequence values
     #define MMU2_CAN_LOAD_DEVIATION 0.8   // (mm) Acceptable deviation
@@ -4283,7 +4283,7 @@
      * move up to the gears. If no filament is detected, the MMU2 can make some more attempts.
      * If all attempts fail, a filament runout will be triggered.
      */
-    //#define MMU_EXTRUDER_SENSOR
+    #define MMU_EXTRUDER_SENSOR
     #if ENABLED(MMU_EXTRUDER_SENSOR)
       #define MMU_LOADING_ATTEMPTS_NR 5 // max. number of attempts to load filament if first load fail
     #endif
