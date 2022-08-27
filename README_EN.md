@@ -2,7 +2,7 @@
 Make sure your 3d printer motherboard has a idle Serial port ,two gpio and use marlin firmware
 
 Replace original MMU2 motherboard, new_board only needs to offer 100(CNY)
-  PCB_V5.1|Specification|IC
+  PCB_V4.1|Specification|IC
   --------|---|-------
   POWER|12~24V|MP1584
   UART|5V/3.3V|TXS0102
