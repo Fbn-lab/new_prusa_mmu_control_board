@@ -1,6 +1,8 @@
 
-Make sure your 3d printer motherboard has a idle Serial port ,two gpio and use marlin firmware
+# ENDER3 多色改装方案
 
+Make sure your 3d printer motherboard has a idle Serial port ,two gpio and use marlin firmware\
+pin to pin mks board(use MKS_TFT Serial screen port)\
 Replace original MMU2 motherboard, new_board only needs to offer 100(CNY)
   PCB_V4.1|Specification|IC
   --------|---|-------
