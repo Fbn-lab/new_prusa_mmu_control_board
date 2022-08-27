@@ -3,7 +3,7 @@
 # ENDER3多色改装方案
 # new_prusa_mmu_hardware
 平替原版mmu2主板,单板只需要约100(CNY)\
-  PCB_V5.1|参数|IC
+  PCB_V4.1|参数|IC
   --------|---|-------
   电源|12~24V|MP1584
   串口|5V/3.3V|TXS0102
