@@ -14,7 +14,7 @@
 无论你的打印机是否来自prusa生产，只要主板拥有一个空闲的串口和两个gpio,使用marlin固件。都可以使用mmu换料器。
 # image
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board3.JPG)
-![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/img3.jpg)
+![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/img4.jpg)
 
 
  
