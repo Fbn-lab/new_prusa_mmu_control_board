@@ -10,4 +10,4 @@ Replace original MMU2 motherboard, new_board only needs to offer 100(CNY)
   DRIVER|/|TMC2130
 # image
 ![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/board3.JPG)
-![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/img3.jpg)
+![image](https://github.com/fBn0523/new_prusa_mmu_hardware/blob/main/images/img4.jpg)
