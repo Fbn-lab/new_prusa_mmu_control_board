@@ -1,0 +1,27 @@
+修改文件Marlin-2.0.x\platformio.ini
+/********************************************************************/
+[platformio]
+src_dir      = Marlin
+boards_dir   = buildroot/share/PlatformIO/boards
+default_envs = mega2560
+include_dir  = Marlin
+extra_configs =
+    ini/avr.ini
+    ;ini/due.ini
+    ;ini/esp32.ini
+    ini/features.ini
+    ;ini/lpc176x.ini
+    ini/native.ini
+    ;ini/samd51.ini
+    ;ini/stm32-common.ini
+    ;ini/stm32f0.ini
+    ;ini/stm32f1-maple.ini
+    ;ini/stm32f1.ini
+    ;ini/stm32f4.ini
+    ;ini/stm32f7.ini
+    ;ini/stm32h7.ini
+    ;ini/stm32g0.ini
+    ;ini/teensy.ini
+    ;ini/renamed.ini
+/********************************************************************/
+(加分号";"屏蔽不需要加载的模块预设)例如2560处理器板子就可以按照上面修改,不使用高级功能还可以把features.ini也注释掉
